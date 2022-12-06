@@ -3,7 +3,7 @@
 class cell :
     size = 14
     outline = 1 # recommended between 0 and 3
-    color = [Gray, Green]
+    color = [Gray, White]
     _grid = None # reference to the grid object
     
     def __init__( self, x, y, state = 0 ):
