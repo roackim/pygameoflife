@@ -1,6 +1,8 @@
 # pygameoflife
 Game of Life implemented in python with the pygame framework
 
+![Pygame Game Of Life](preview.png?raw=true "Pygame Game Of Life")
+
 # Dependencies
     python3
     pygame (not pygame-sdl2)
@@ -14,4 +16,3 @@ Game of Life implemented in python with the pygame framework
     Right click: make cell dead
     Backspace: make all cells dead
     
-![Pygame Game Of Life](preview.png?raw=true "Pygame Game Of Life")
